@@ -3,3 +3,4 @@
 
 
 [Код](https://github.com/Alex-astfotolab/final_task/blob/main/Fin_task/Program.cs)
+[Схема](https://github.com/Alex-astfotolab/final_task/blob/main/schema/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0.png)
