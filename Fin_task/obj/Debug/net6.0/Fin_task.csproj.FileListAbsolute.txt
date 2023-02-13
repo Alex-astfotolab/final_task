@@ -1,0 +1,15 @@
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.csproj.AssemblyReference.cache
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.AssemblyInfoInputs.cache
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.AssemblyInfo.cs
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.csproj.CoreCompileInputs.cache
+C:\Users\ОДКБ Татищева\11\Fin_task\bin\Debug\net6.0\Fin_task.exe
+C:\Users\ОДКБ Татищева\11\Fin_task\bin\Debug\net6.0\Fin_task.deps.json
+C:\Users\ОДКБ Татищева\11\Fin_task\bin\Debug\net6.0\Fin_task.runtimeconfig.json
+C:\Users\ОДКБ Татищева\11\Fin_task\bin\Debug\net6.0\Fin_task.dll
+C:\Users\ОДКБ Татищева\11\Fin_task\bin\Debug\net6.0\Fin_task.pdb
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.dll
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\refint\Fin_task.dll
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.pdb
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\Fin_task.genruntimeconfig.cache
+C:\Users\ОДКБ Татищева\11\Fin_task\obj\Debug\net6.0\ref\Fin_task.dll
